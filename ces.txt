@@ -1,2 +1,2 @@
 const arr = []
-arr.push(1,2)
+arr.push(1,2)ss
