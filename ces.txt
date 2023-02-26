@@ -1,1 +1,2 @@
-ces
+const arr = []
+arr.push(1,2)
